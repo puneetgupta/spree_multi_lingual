@@ -12,8 +12,9 @@ Since then integration tests and features have been added.
 ## Installation
 Add gem to your Gemfile:
 
-	gem 'spree_multi_lingual', :git => 'git://github.com/jipiboily/spree_multi_lingual.git'
-	gem 'globalize3', :git => 'git://github.com/svenfuchs/globalize3.git'
+	gem 'spree_multi_lingual', :github => 'puneetgupta/spree_multi_lingual'
+	gem 'easy_globalize3_accessors', :git => "git://github.com/reinkcar/easy_globalize3_accessors.git"
+	gem 'globalize', '3.0.4'
 
 Globalize3 edge version fixed important bug with dynamic finder : https://github.com/svenfuchs/globalize3/commit/b771fb87d3dda4a78cfe294da1fab7df266e72c9
 
