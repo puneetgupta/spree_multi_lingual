@@ -5,8 +5,8 @@ SpreeMultiLingual is originally a proof of concept for what could become a multi
 Since then integration tests and features have been added.
 
 ## Requirements
- - Spree 1.3.X
- - Rails 3.2.X
+ - Spree 2.0.X
+ - Rails 3.2.14
 
 
 ## Installation
